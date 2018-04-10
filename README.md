@@ -1,6 +1,8 @@
 
 # Displaying Has Many Through Rails
 
+<!-- MODIFICATION TO MAKE THE LIGHT GO GREEN -->
+
 ## Objectives
 
 1. Construct a bi-directional has many through.
@@ -29,7 +31,7 @@ Things get slightly more complicated when we talk about the relationship between
     <td> post_id </td>
     <td> user_id </td>
   </tr>
-  
+
   <tr>
     <td> 1 </td>
     <td> "I loved this post!" </td>
